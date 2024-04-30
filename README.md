@@ -6,8 +6,8 @@ It's being created from scratch! I'm not using Quartz for it anymore (only for t
 Therefore, it takes time! A hell lot of time! But it WILL worth it! You'll see.
 
 But for now, you can follow my announcements there:
-- https://www.youtube.com/@liledix4/community
-- https://twitter.com/liledix4
+- [https://www.youtube.com/@liledix4/community](https://www.youtube.com/@liledix4/community)
+- [https://twitter.com/liledix4](https://twitter.com/liledix4)
 
 Maybe you'll notice that SOMETHING'S COOKIN'!!!!
 
