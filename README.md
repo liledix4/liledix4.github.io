@@ -9,7 +9,7 @@ But for now, you can follow my announcements there:
 - [https://www.youtube.com/@liledix4/community](https://www.youtube.com/@liledix4/community)
 - [https://twitter.com/liledix4](https://twitter.com/liledix4)
 
-Maybe you'll notice that SOMETHING'S COOKIN'!!!!
+Maybe you'll notice that SOMETHING'S COOKIN'!!!! And actually I'm reeeeeally excited!
 
 ****
 
