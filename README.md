@@ -10,3 +10,9 @@ But for now, you can follow my announcements there:
 - https://twitter.com/liledix4
 
 Maybe you'll notice that SOMETHING'S COOKIN'!!!!
+
+****
+
+P.S. To one of IRL guys who could notice this message (high chance): **don't spoil the moment. I know you'll do that. You're just a grumpy potato. Grumpotato. I'll keep doing my thing, whether you like it or not. Stop following me if it triggers you so much. Only you yourself can stop this unhealthy "need to receive mental pain". YOU make this choice. Now stop it. Thanks.**
+
+If that particular person never reads this message, then great. Peace has finally been achieved for both of us.
