@@ -29,7 +29,7 @@ This is only about music. I don't take any other types of commissions yet *(keep
 One of any tracks previously made by me – they can be edited with the lower price.
 
 | Price   | Max duration | Complexity |
-| :-----: | :----------- | :--------- |
+| :------ | :----------- | :--------- |
 | **$2**  | 🕒 3:00      | Any        |
 
 ### One track
