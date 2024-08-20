@@ -6,13 +6,13 @@
 
 Here you can see not just "frequently asked questions", but also **expected questions**.
 
-**Click the triangle or header** to reveal the list of questions.
-
 ### What is the main focus right now?
 
 There is a [GitHub project for all my projects](https://github.com/users/liledix4/projects/15). There you can keep track of the updates and priorities.
 
 It's updated live, every time when some change happens.
+
+****
 
 ### But I don't understand GitHub
 
@@ -27,9 +27,13 @@ Now, follow these very simple instructions:
 3. If you see ***any*** blocks in ***any*** columns – it means that I'm busy. Simple as that. A perfect indication that I'm free: **all columns should be empty!**
 4. You don't need to read the blocks themselves. Most likely, you won't understand what they're about. But if you *want* to understand, [ask me personally!](./links)
 
+****
+
 ### What about commissions?
 
 See [another page about commissions](./comm).
+
+****
 
 ### What about YouTube content and new music?
 
