@@ -48,3 +48,15 @@ If fanmade music helps popularize this project or support it financially, I'll k
 **Unless it's something significant that helps my project to shine:** I'm not listening to requests, I'm not accepting music collaborations, I'm not joining fanmade projects and any other projects. If commissions are open, you can do paid requests for fanmade music – in which case I don't mind working on it.
 
 If it's something I can't monetize within weeks (especially when it comes to long-term fanmade projects where content needs to be kept secret for long periods of time) – big no. The project requires monetary investment, and I can't spend energy on music that doesn't help develop the project including financially.
+
+****
+
+### What about DMs? *(by the way, you don't read them / you're replying too rarely)*
+
+Until 20 August 2024, responding to any messages was problematic. Without having some public document that explains what's going on, I have a very hard time explaining things to everyone personally.
+
+I didn't want to do it. If I can work, **I'm working. Not explaining.**
+
+That's one thing. Another thing: with work taking up almost all of my time, it's almost impossible for me to talk about anything but what I'm working on. I'm super-invested in the work process. And I'm afraid of sharing spoilers. **Because if people know what's coming, it won't be exciting when it gets released publicly.** And emotional impact REALLY matters to me. So I need to maintain some secrecy, but I also have no idea what to talk about if I have to avoid mentioning what interests me most.
+
+Basically, that's all. If not what is mentioned above, I'd be super-glad to talk freely about anything with anyone, but at the moment it's a rare opportunity.
