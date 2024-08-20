@@ -6,7 +6,7 @@
 
 The only available way to commission me is through [**YouTube Membership**](https://www.youtube.com/@liledix4/membership) and **YouTube Super Thanks** (use it on *any* video, it counts as a commission).
 
-> I'm fixing these ways of payment: Wise, DonationAlerts, Boosty, Visa Direct, Telegram (Tribute).
+> I'm fixing these ways of payment: Wise, DonationAlerts, Boosty, Visa Direct, Telegram (Tribute and TON).
 
 > There are special payment methods for some countries (particularly the one I live in and countries near it), but I don't mention them here. The info here is global.
 
@@ -32,29 +32,29 @@ One of any tracks previously made by me – they can be edited with the lower pr
 
 | Price   | Max duration | Complexity |
 | :------ | :----------- | :--------- |
-| **$2**  | 🕒 3:00      | Any        |
+| **$2**  | 🕒 3:00      | 🔷💠 Any   |
 
 ### One track
 
 It doesn't matter if it's fanmade or original.
 
-| Price   | Max duration | Complexity              |
-| :------ | :----------- | :---------------------- |
-| **$5**  | 🕑 2:00      | 🔷 Simple/uncomplicated |
-| **$10** | 🕖 7:00      | 🔷 Simple/uncomplicated |
-| **$10** | 🕜 1:30      | 💠 Complex              |
-| **$20** | 🕒 3:00      | 💠 Complex              |
-| **$50** | 🕖 7:00      | 💠 Complex              |
+| Price   | Max duration | Complexity          |
+| :------ | :----------- | :------------------ |
+| **$5**  | 🕑 2:00      | 🔷 Simple/uncomplex |
+| **$10** | 🕖 7:00      | 🔷 Simple/uncomplex |
+| **$10** | 🕜 1:30      | 💠 Complex          |
+| **$20** | 🕒 3:00      | 💠 Complex          |
+| **$50** | 🕖 7:00      | 💠 Complex          |
 
 ### Mini-playlist
 
 The difference is that the tracks may share the style or motifs. Logistically, you order several tracks at once, which is easier than several separate orders, and on top of that it helps me a lot to finance my projects.
 
-| Price   | Max amount<br>of tracks | Max duration | Complexity |
-| :------ | ----------------------: | :----------- | :--------- |
-| **$20** |  5 | 🕒 3:00 | 🔷 Simple/uncomplicated |
-| **$50** | 10 | 🕒 3:00 | 🔷 Simple/uncomplicated |
-| **$50** |  5 | 🕒 3:00 | 💠 Complex              |
+| Price   | Max amount<br>of tracks | Max duration | Complexity          |
+| :------ | ----------------------: | :----------- | :------------------ |
+| **$20** |                       5 | 🕒 3:00      | 🔷 Simple/uncomplex |
+| **$50** |                      10 | 🕒 3:00      | 🔷 Simple/uncomplex |
+| **$50** |                       5 | 🕒 3:00      | 💠 Complex          |
 
 ## What you'll get
 
