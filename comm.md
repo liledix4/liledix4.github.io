@@ -12,11 +12,7 @@ If commissions are closed:
 - Each previous commission is suspended – work will be continued once the commissions are reopened.
 - You can **pre-order** – work will begin once the commissions are reopened.
 
-<details open><summary>
-
 ## When will commissions open?
-
-</summary>
 
 Expected time: September 2024.
 
@@ -24,13 +20,7 @@ First of all, I need to finish `0.1` version of website [bvsgame.github.io](http
 
 After that, I'll make some efforts to spread the project (I'll try to contact some other YouTube channels for help) and fund it through releases of new fanmade music on YouTube, accepting commissions, and paid web development. In addition, I'll be asking for feedback and ideas. This won't last long, it'll all close again to continue working on the next big wave of content for the game.
 
-</details>
-
-<details open><summary>
-
 ## Price list
-
-</summary>
 
 This is only about music. I don't take any other types of commissions yet *(keep an eye on updates, other options may be available in the future)*.
 
@@ -39,7 +29,7 @@ This is only about music. I don't take any other types of commissions yet *(keep
 One of any tracks previously made by me – they can be edited with the lower price.
 
 | Price   | Max duration | Complexity |
-| :-----: | :----------: | :--------- |
+| :-----: | :----------- | :--------- |
 | **$2**  | 🕒 3:00      | Any        |
 
 ### One track
@@ -64,26 +54,14 @@ The difference is that the tracks may share the style or motifs. Logistically, y
 | **$50** | 10 | 🕒 3:00 | 🔷 Simple/uncomplicated |
 | **$50** |  5 | 🕒 3:00 | 💠 Complex              |
 
-</details>
-
-<details open><summary>
-
 ## What you'll get
-
-</summary>
 
 - Every WIP (work-in-progress) version of the track – MP3 128 kbps
 - Final version of the track – MP3 320 kbps, FLAC, WAV, OGG
 - You can request MIDI and stems if you like – it's free
     - Project files won't be sent
 
-</details>
-
-<details open><summary>
-
 ## What style to expect
-
-</summary>
 
 Short answer: **anything you may hear (or have already heard) from my content.** Ultimately, that's the only limitation, but I can go beyond that (in which case I'm entering the realm of experimentation, at your own risk).
 
@@ -128,13 +106,7 @@ Franchises (for fanmade music):
 - Sonic the Hedgehog
 - *It doesn't mean that I can't do something else, like Touhou, Undertale, Genshin Impact, or XCOM*
 
-</details>
-
-<details open><summary>
-
 ## How payments work
-
-</summary>
 
 If commissions haven't been completed, the payments have **an accumulative effect**.
 
@@ -144,18 +116,10 @@ There's no difference if you paid using one-time donations (like YouTube Super T
 
 So, even $50 commission is accessible if you pay piece by piece! 🙃
 
-</details>
-
-<details open><summary>
-
 ## Terms
-
-</summary>
 
 - Unfortunately, there are no refunds possible. The nature of YouTube donations doesn't allow refunding. I'm really sorry. Well, you could try to contact YouTube or Google, but their support teams are quite questionable to say the least.
 - You can choose whether the commissioned tracks will be uploaded to my YouTube channel or not. Unless it's specified, I don't upload on my own.
 - Even if some tracks are presumably original, they're not allowed for commercial use. Especially when it comes to the fanmade music. I'm not providing any kind of licensing, and I'm not helping to deal with copyright. Still, for fanmade projects and indie projects, it's perfectly fine!
 - Recreations, remixes and remasters are allowed! Go for it!
 - Giving a credit is welcome (it's really nice), but it's not a requirement.
-
-</details>
