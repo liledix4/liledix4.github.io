@@ -6,6 +6,8 @@
 
 Here you can see not just "frequently asked questions", but also **expected questions**.
 
+****
+
 ### What is the main focus right now?
 
 There is a [GitHub project for all my projects](https://github.com/users/liledix4/projects/15). There you can keep track of the updates and priorities.
