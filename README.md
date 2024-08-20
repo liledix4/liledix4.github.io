@@ -1,11 +1,17 @@
 # liledix4.github.io
-Brand new, proper personal website
+
+Brand new, proper personal website *(in private production)*
 
 It's being created from scratch! I'm not using Quartz for it anymore (only for the standalone repositories if there's a need for it).
 
 Therefore, it takes time! A hell lot of time! But it WILL worth it! You'll see.
 
 But for now...
+
+## Other pages
+
+- [Commissions](./comm)
+- [Notice about busyness](./busy)
 
 ## Where to find me?
 

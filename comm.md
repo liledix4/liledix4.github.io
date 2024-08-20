@@ -2,6 +2,8 @@
 
 *Latest update: **20 August 2024***
 
+*It is also recommended to read [Notice about busyness](./busy).*
+
 The only available way to commission me is through [**YouTube Membership**](https://www.youtube.com/@liledix4/membership) and **YouTube Super Thanks** (use it on *any* video, it counts as a commission).
 
 > I'm fixing these ways of payment: Wise, DonationAlerts, Boosty, Visa Direct, Telegram (Tribute).
