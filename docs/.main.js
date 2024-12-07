@@ -1,7 +1,7 @@
 import { readTextFile } from './modules/edx_xhr-ajax/xhr-ajax.js';
 
 readTextFile(
-    {url: '../status.json'},
+    {url: './status.json'},
     jsonFileContent =>
     {
         const json = JSON.parse(jsonFileContent);

@@ -96,5 +96,10 @@
         "project": "RSS Generator",
         "version_current": null,
         "version_target": "0.1"
+    },
+    {
+        "project": "Software",
+        "version_current": null,
+        "version_target": "0.1"
     }
 ]
