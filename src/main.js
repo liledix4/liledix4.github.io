@@ -14,17 +14,19 @@ readTextFile(
                 if (element.version_target === null) element.version_target = 'N/A';
                 listOfVersions.innerHTML += `
                     <div class='level4'>
-                        <div class='title'>${element.project}</div>
-                        <div class='version'>
-                            <div class='icon clock'></div>
-                            <div class='text'>
-                                ${element.version_current}
+                    <div class='title'>${element.project}</div>
+                        <div class='level5 versions'>
+                            <div class='version'>
+                                <div class='icon clock'></div>
+                                <div class='text'>
+                                    ${element.version_current}
+                                </div>
                             </div>
-                        </div>
-                        <div class='version'>
-                            <div class='icon goal'></div>
-                            <div class='text'>
-                                ${element.version_target}
+                            <div class='version'>
+                                <div class='icon goal'></div>
+                                <div class='text'>
+                                    ${element.version_target}
+                                </div>
                             </div>
                         </div>
                     </div>`;
