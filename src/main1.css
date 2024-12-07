@@ -14,16 +14,33 @@ body {
     left: 0;
     right: 0;
     margin: 0;
-    background-color: #002211;
+    background-color: #000000;
+    background-image: linear-gradient(90deg, #003311, #001122);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     display: flex;
     overflow: auto;
     perspective: 1000px;
-    transition: background 1s;
 }
 body.loading {
-    background-color: black;
     overflow: hidden;
     user-select: none;
+}
+body > .background {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    background-color: #000000;
+    opacity: 0;
+    transition: opacity .4s;
+}
+body.loading > .background {
+    opacity: 1;
 }
 h1, h2 {
     margin: 0;
