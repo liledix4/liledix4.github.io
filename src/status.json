@@ -1,105 +1,131 @@
 [
     {
-        "list_updated": "2024-12-07"
+        "list_updated": "2024-12-08"
     },
     {
         "project": "2do",
         "version_current": "0.1_alpha.1",
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Application for planning projects and detecting comments in source files."
     },
     {
         "project": "Bookmarker",
         "version_current": "0.1_alpha.1",
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Application for storing bookmarks and notes in a smarter way."
     },
     {
         "project": "BvS PHP",
         "version_current": null,
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Server-side bits for \"Bombs vs. Sleepwalkers\" website and some related applications."
     },
     {
         "project": "BvS Website",
         "version_current": null,
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Website for the game project <strong>\"Bombs vs. Sleepwalkers\"</strong> – with introductions, explanations, progress tracker, documentations, news and fun content."
     },
     {
         "project": "DDLC:NH Website",
         "version_current": null,
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Website for the fan mod project <strong>\"Doki Doki Literature Club! New Heading\"</strong> – with introductions, explanations, progress tracker, documentations, news and fun content."
     },
     {
         "project": "Gaming",
         "version_current": null,
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Hub for games. Pick your favorites. Write your game progress and see how far you've come. See cheats, hints and recommendations. Watch gameplays. Keep track of characters' birthdays, if they have them."
     },
     {
         "project": "Installment Tracker",
         "version_current": null,
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Easy way to track installments and periodic payments. Print-friendly."
     },
     {
         "project": "JSON Editor",
         "version_current": null,
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Application for editing JSON files with ease and power."
     },
     {
         "project": "liledix4 Discord Server",
         "version_current": null,
-        "version_target": "1"
+        "version_target": "1",
+        "description": "Place for sharing and discussing music on <a href='https://discord.com'>Discord</a>, with an entirety of back catalogue."
     },
     {
         "project": "liledix4 Google Drive",
         "version_current": null,
-        "version_target": "1"
+        "version_target": "1",
+        "description": "Music files shared on <a href='https://drive.google.com'>Google Drive</a>, with an entirety of back catalogue."
+    },
+    {
+        "project": "liledix4 MEGA",
+        "version_current": null,
+        "version_target": "1",
+        "description": "Music files shared on <a href='https://mega.io'>MEGA</a>, with an entirety of back catalogue."
     },
     {
         "project": "liledix4 PHP",
         "version_current": "0.1_alpha.1",
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Server-side bits for \"liledix4 Website\" and some other applications."
     },
     {
         "project": "liledix4 Revolt Server",
         "version_current": null,
-        "version_target": "1"
+        "version_target": "1",
+        "description": "Place for sharing and discussing music on <a href='https://revolt.chat'>Revolt</a>, with an entirety of back catalogue."
     },
     {
         "project": "liledix4 Telegram Channel",
         "version_current": null,
-        "version_target": "1"
+        "version_target": "1",
+        "description": "Place for sharing music on <a href='https://telegram.org'>Telegram</a>, with an entirety of back catalogue."
     },
     {
         "project": "liledix4 Website",
         "version_current": "0.1_alpha.1",
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "<p>Not just a quick way to reach out and read personal info, but also:</p><ul><li>Information about commissions;</li><li>Progress tracker;</li><li>Any problems explained;</li><li>Catalogue of projects, experiences, thoughts;</li><li>An easy way to find common ground in any aspect, even when I'm really busy or you're not sure what you'd like to ask personally.</li></ul>"
     },
     {
         "project": "lil' Geeky – Discord Server",
         "version_current": "0.1_alpha.1",
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Place on <a href='https://discord.com'>Discord</a> for discussing anything digital (including but not limited to the software development) and sharing related notes."
     },
     {
         "project": "Music Companion",
         "version_current": null,
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Hub for the detailed information about everything music production: DAWs, plugins, libraries, sample packs, soundfonts, you name it."
     },
     {
         "project": "Music Player",
         "version_current": "0.1_alpha.1",
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Neatly organized hub of ALL music I've ever created, with the straightforward way to listen to it. Music can be filtered in many ways. Save favorites, create playlists and write comments (stored offline, not being sent anywhere). Any musician can adapt this project to their needs to create their own music players!"
     },
     {
         "project": "PowerTable",
         "version_current": null,
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "For people who really grow tired of Excel and similar software <i>(like I did)</i>."
     },
     {
         "project": "RSS Generator",
         "version_current": null,
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Simple and more straightforward way to create <a href='https://en.wikipedia.org/wiki/RSS'>RSS</a> files the way you'd want it <i>(if you ever cared about RSS in the first place – but I love it)</i>."
     },
     {
         "project": "Software",
         "version_current": null,
-        "version_target": "0.1"
+        "version_target": "0.1",
+        "description": "Hub for the detailed information about apps, programs, plugins, extensions and add-ons. Plus frameworks, libraries, packages, modules. And configurations!"
     }
 ]

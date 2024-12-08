@@ -1,64 +1,62 @@
 @media all and (max-width: 800px) {
-    .level3 {
+    .list-of-content-blocks {
         flex-direction: row;
         flex-wrap: wrap;
-        align-items: center;
         justify-content: center;
     }
-    .level4 {
+    .content-block {
+        max-width: calc(50% - 10px);
+    }
+    .content-columns {
         flex-direction: column;
         align-items: unset;
-        max-width: calc(50% - 10px);
-        padding-top: 10px;
-        padding-bottom: 10px;
     }
-    .level4 > .title {
+    .content-columns > .content-block-title {
         width: unset;
     }
-    .level5 {
+    .list-of-version-numbers {
         flex-direction: column;
     }
 }
 @media all and (max-width: 600px) {
-    .level0 {
+    .center-everything {
         padding-left: unset;
         padding-right: unset;
     }
-    .level1 {
+    .sections-wrapper {
         border: unset;
         gap: 20px;
         padding-top: 0;
         padding-bottom: 0;
     }
-    .level3 {
+    .list-of-content-blocks {
         flex-direction: column;
         flex-wrap: unset;
-        align-items: unset;
         justify-content: unset;
     }
-    .level4 {
+    .content-block {
         max-width: unset;
     }
-    .level4 .version {
+    .list-of-version-numbers {
+        flex-direction: row;
+        gap: 5px;
+    }
+    .list-of-version-numbers .version {
         font-size: 1.5em;
     }
-    .level4 .version > .icon {
+    .list-of-version-numbers .version > .icon {
         min-height: 36px;
         max-height: 36px;
         min-width:  36px;
         max-width:  36px;
         background-size: 24px 24px;
     }
-    .level5 {
-        flex-direction: row;
-        gap: 5px;
-    }
 }
 @media all and (max-width: 400px) {
-    .level1 {
+    .sections-wrapper {
         padding: 0;
     }
-    .level5 {
+    .list-of-version-numbers {
         flex-direction: column;
     }
 }

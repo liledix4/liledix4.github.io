@@ -12,23 +12,29 @@ readTextFile(
             {
                 if (element.version_current === null) element.version_current = 'N/A';
                 if (element.version_target === null) element.version_target = 'N/A';
+                if (!element.description) element.description = '';
+                else element.description = `<div class='content-block-description'>${element.description}</div>`;
+
                 listOfVersions.innerHTML += `
-                    <div class='level4'>
-                    <div class='title'>${element.project}</div>
-                        <div class='level5 versions'>
-                            <div class='version'>
-                                <div class='icon clock'></div>
-                                <div class='text'>
-                                    ${element.version_current}
+                    <div class='content-block'>
+                        <div class='content-columns'>
+                            <div class='content-block-title'>${element.project}</div>
+                            <div class='list-of-version-numbers'>
+                                <div class='version' title='❓ This is a current version.'>
+                                    <div class='icon clock'></div>
+                                    <div class='text'>
+                                        ${element.version_current}
+                                    </div>
                                 </div>
-                            </div>
-                            <div class='version'>
-                                <div class='icon goal'></div>
-                                <div class='text'>
-                                    ${element.version_target}
+                                <div class='version' title='❓ This is a version that should be reached.'>
+                                    <div class='icon goal'></div>
+                                    <div class='text'>
+                                        ${element.version_target}
+                                    </div>
                                 </div>
                             </div>
                         </div>
+                        ${element.description}
                     </div>`;
             }
             else if (element.list_updated)
@@ -49,6 +55,14 @@ readTextFile(
                 );
                 document.querySelector('.list-updated').innerHTML = dateFormatted;
             }
+        });
+        document.querySelector('input[type="checkbox"].show-project-descriptions').addEventListener('click', (e) => {
+            const checkedState = e.currentTarget.checked;
+            const bodyClasses = document.querySelector('body').classList;
+            const toggleClass = 'show-project-descriptions';
+
+            if (checkedState === true) bodyClasses.add(toggleClass);
+            else bodyClasses.remove(toggleClass);
         });
         document.querySelector('body').classList.remove('loading');
     }
