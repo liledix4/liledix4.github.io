@@ -136,10 +136,10 @@ body.loading .center-everything {
     background-position: center center;
 }
 .list-of-version-numbers .version > .icon.clock {
-    background-image: url('schedule_96dp_FFFFFF.svg');
+    background-image: url('../images/schedule_96dp_FFFFFF.svg');
 }
 .list-of-version-numbers .version > .icon.goal {
-    background-image: url('sports_score_96dp_FFFFFF.svg');
+    background-image: url('../images/sports_score_96dp_FFFFFF.svg');
 }
 .list-of-version-numbers .version > .text {
     margin-top: -2px;
