@@ -16,6 +16,7 @@ But for now...
 ## Where to find me?
 
 You can follow my announcements there:
+
 - [YouTube – @liledix4](https://www.youtube.com/@liledix4/community)
 - [Twitter/X – @liledix4](https://twitter.com/liledix4)
 
@@ -27,8 +28,8 @@ Also you can contact me on Discord! `liledix4` or `liledix4#2858` – ALL friend
 
 Alternatively, you can try [this link](https://discord.com/users/472184744814051330) but it's not guaranteed to work – because Discord devs are so weird that they can't make proper invite/direct links for a profile (not a server).
 
-****
+## Dependencies
 
-P.S. To one of IRL guys who could notice this message (high chance): **don't spoil the moment. I know you'll do that. You're just a grumpy potato. Grumpotato. I'll keep doing my thing, whether you like it or not. Stop following me if it triggers you so much. Only you yourself can stop this unhealthy "need to receive mental pain". YOU make this choice. Now stop it. Thanks.**
-
-If that particular person never reads this message, then great. Peace has finally been achieved for both of us.
+- [crypto-js](https://github.com/brix/crypto-js)
+- [js-sha3](https://github.com/emn178/js-sha3)
+- [Marked](https://github.com/markedjs/marked)

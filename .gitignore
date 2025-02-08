@@ -1,2 +1,3 @@
-.private/
-.vscode/
+**/node_modules/
+**/.private/
+**/.vscode/
